@@ -4,11 +4,11 @@
 <h1 align="center">Hi 👋, I'm Richard Whittington</h1>
 <h3 align="center">A Software Engineer from Memphis,Tn</h3>
 
-- 🌱 I’m currently learning **React,SQL,and Scottish Gaelic**
+- 🌱 I’m currently learning **how to expand my backend skills and Scottish Gaelic**
 
 - 👨‍💻 All of my projects are available at [https://richardwhittingtondev.netlify.app/](https://richardwhittingtondev.netlify.app/)
 
-- 💬 Ask me about **Javascript,CSS,or Node**
+- 💬 Ask me about **Javascript,CSS,React or Node**
 
 - 📫 How to reach me **richardlwhittington@gmail.com**
 
