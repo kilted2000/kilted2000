@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Richard Whittington</h1>
 <h3 align="center">A Software Engineer from Memphis,Tn</h3>
 
-- 🌱 I’m currently learning **how to expand my Backend Skills and Scottish Gaelic**
+- 🌱 I’m currently **expanding my Backend Skills and Scottish Gaelic**
 
 - 👨‍💻 All of my projects are available at [https://richardwhittingtondev.netlify.app/](https://richardwhittingtondev.netlify.app/)
 
