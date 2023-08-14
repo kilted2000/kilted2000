@@ -21,7 +21,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display: inline-block; margin: 5px;">
+<div style="display: inline-block; margin: 5;">
 <img  alt="Static Badge" src="https://img.shields.io/badge/Javascript-lang?label=Language"><img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-lang?label=Library">
 </div>
 
