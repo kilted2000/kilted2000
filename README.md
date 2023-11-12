@@ -33,7 +33,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Postman-lang?label=Platform%20">
 <img alt="Static Badge" src="https://img.shields.io/badge/React.js-lang?label=Library">
 <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-lang?label=Framework">
-<img alt="Static Badge" src="https://img.shields.io/badge/Node-Vite-blue?logo=amazon">
+
 
 
 </div>
