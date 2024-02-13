@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Richard Whittington</h1>
 <h3 align="center">A Software Engineer from Memphis,Tn</h3>
 
-- 🌱 I’m currently **planning my next project and my next trip**
+- 🌱 I’m currently **planning my next project**
 
 - 👨‍💻 All of my projects are available at [https://richardwhittingtondev.netlify.app/](https://richardwhittingtondev.netlify.app/)
 
