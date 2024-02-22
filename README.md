@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **richardlwhittington@gmail.com**
 
-- ⚡ Fun fact **I am a serial spoiler of dogs**
+- ⚡ Fun fact **I am a serial dog spoiler**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
