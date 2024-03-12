@@ -6,7 +6,7 @@
 
 - 🌱 I’m always **planning my next project**
 
-- 👨‍💻 All of my projects are available at [https://richardwhittingtondev.netlify.app/](https://richardwhittingtondev.netlify.app/)
+- 👨‍💻 More of my projects are available at [https://richardwhittingtondev.netlify.app/](https://richardwhittingtondev.netlify.app/)
 
 - 💬 Talk to me about **Javascript, SQL, Express, UI/UX, Web Accesability, React, NextJS, TailwindCSS, MongoDB, Wordpress or Node**
 
