@@ -8,7 +8,7 @@
 
 - 👨‍💻 More of my projects are available at [https://richardwhittingtondev.netlify.app/](https://richardwhittingtondev.netlify.app/)
 
-- 💬 Talk to me about **Javascript, SQL, Express, UI/UX, Web Accesability, React, NextJS, TailwindCSS, REST Apis, MongoDB, Wordpress, Node and more**
+- 💬 Talk to me about **Javascript, SQL, Postgresql, Express, UI/UX, Web Accesability, React, NextJS, TailwindCSS, REST Apis, MongoDB, Wordpress, Node and more**
 
 - 📫 How to reach me **richardlwhittington@gmail.com**
 
