@@ -2,7 +2,7 @@
 ![cover](https://user-images.githubusercontent.com/53500493/230682908-95b8c446-cbd3-4c8a-a591-dba8b1c6d56e.png)
 
 <h1 align="center">Hi 👋, I am Richard Whittington</h1>
-<h3 align="center">I'm a Software Developer in Memphis, Tn</h3>
+<h3 align="center">I'm a Software Developer in Memphis, Tn </h3>
 
 - 🌱 I’m always **planning my next project**
 
