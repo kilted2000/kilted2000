@@ -23,6 +23,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline-block;">
 <img style="margin-left: 5;" alt="Static Badge" src="https://img.shields.io/badge/Javascript-lang?label=Language">
+ <img alt="Static Badge" src="https://img.shields.io/badge/Java-lang?label=Language">
+ <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-lang?label=Framework">
  <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-lang?label=Library">
  <img alt="Static Badge" src="https://img.shields.io/badge/CSS-lang?label=Stylesheet">
 <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-lang?label=Framework">
