@@ -8,7 +8,7 @@
 
 - 👨‍💻 More of my projects are available at [https://richardwhittingtondev.netlify.app/](https://richardwhittingtondev.netlify.app/)
 
-- 💬 Talk to me about **how I can use my fullstack skills to help your business get to where you want it to go**
+- 💬 Talk to me about **how I can use my fullstack skills, including SEO, to help your business get to where you want it to go**
 
 - 📫 How to reach me **richardlwhittington@gmail.com**
 
