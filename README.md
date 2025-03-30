@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **richardlwhittington@gmail.com**
 
-- ⚡ Fun fact **I like to use code to solve real world problems**
+- ⚡ Fun fact **I'm currently learning Scottish Gaelic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
