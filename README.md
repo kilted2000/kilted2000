@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **richardlwhittington@gmail.com**
 
-- ⚡ Fun fact **I'm currently learning Scottish Gaelic**
+- ⚡ Fun fact **I've been learning Scottish Gaelic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
