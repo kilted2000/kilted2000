@@ -37,6 +37,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-lang?label=Framework">
  <img alt="Static Badge" src="https://img.shields.io/badge/Docker-lang?label=Platform">
  <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind-lang?label=Library">
+  <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-lang?label=Database">
 </div>
 
 
