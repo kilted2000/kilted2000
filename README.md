@@ -6,7 +6,7 @@
 
 - 🌱 I’m always **planning my next project**
 
-- 👨‍💻 More of my projects are available at [https://richardwhittingtondev.netlify.app/](https://richardwhittingtondev.netlify.app/)
+- 👨‍💻 More of my projects are available at [https://richardwhittingtondev.com](https://richardwhittingtondev.com)
 
 - 💬 Talk to me about **how I can use my code and design skills, including SEO, to help your business grow**
 
