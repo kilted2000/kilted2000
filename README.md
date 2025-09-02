@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **richardlwhittington@gmail.com**
 
-- ⚡ Fun fact **I've been learning Scottish Gaelic and Old English**
+- ⚡ Fun fact **I've been to 4 of the 7 continents!**
 
 <h3 align="left">More ways to connect with me:</h3>
 <p align="left">
