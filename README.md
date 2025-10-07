@@ -8,7 +8,7 @@
 
 - 👨‍💻 More of my projects are available at [https://richardwhittingtondev.com](https://richardwhittingtondev.com)
 
-- 💬 Talk to me about **how I can use my code and design skills to help solve your business problems**
+- 💬 Ask to me about **how I can use my code and design skills to help solve your business problems**
 
 - 📫 How to reach me **richardlwhittington@gmail.com**
 
