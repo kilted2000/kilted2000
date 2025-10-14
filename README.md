@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **richardlwhittington@gmail.com**
 
-- ⚡ Fun fact **I've been to 4 of the 7 continents!**
+- ⚡ Fun fact **I've been to 4 of the 7 continents! Just Africa, Australia, and Antarctica to go**
 
 <h3 align="left">More ways to connect with me:</h3>
 <p align="left">
