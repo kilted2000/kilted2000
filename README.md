@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Richard Whittington</h1>
 <h3 align="center">Your Friendly Neighbourhood Software Developer</h3>
 
-- 🌱 I’m always **planning my next project**
+- 🌱 I am always **planning my next project**
 
 - 👨‍💻 More of my projects are available at [https://richardwhittingtondev.com](https://richardwhittingtondev.com)
 
