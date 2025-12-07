@@ -6,7 +6,7 @@
 
 - 🌱 I'm always **planning my next project**
 
-- 👨‍💻 More of my projects are available at [https://richardwhittingtondev.com](https://richardwhittingtondev.com)
+- 👨‍💻 Check out my projects are available at [https://richardwhittingtondev.com](https://richardwhittingtondev.com)
 
 - 💬 Ask to me about **how I can use my coding and design skills to help solve your business problems**
 
