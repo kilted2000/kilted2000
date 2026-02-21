@@ -6,7 +6,7 @@
 
 - 🌱 I am always **thinking about how to use tech to solve your problems**
 
-- 👨‍💻 Check out more of my projects are available at [https://richardwhittingtondev.com](https://richardwhittingtondev.com)
+- 👨‍💻 Check out more of my projects at [https://richardwhittingtondev.com](https://richardwhittingtondev.com)
  
 - 💬 Ask to me about **how I use my coding and design skills to help solve your business problems**
 
