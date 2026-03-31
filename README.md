@@ -39,6 +39,8 @@
  <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind-lang?label=Library">
   <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-lang?label=Database">
   <img alt="Static Badge" src="https://img.shields.io/badge/Typescript-lang?label=Language">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Go-lang?label=Language">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Gin-lang?label=Framework">
       <img alt="Static Badge" src="https://img.shields.io/badge/OpenAI-lang?label=API">
 </div>
 
