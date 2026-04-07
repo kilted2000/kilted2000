@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Richard Whittington</h1>
 <h3 align="center">Your Friendly Neighbourhood Software Developer</h3>
 
-- 🌱 I am always **thinking about how to use tech to solve your problems**
+- 🌱 I am always **thinking about how to use tech to solve real world problems**
 
 - 👨‍💻 Check out more of my projects at [https://richardwhittingtondev.com](https://richardwhittingtondev.com)
  
