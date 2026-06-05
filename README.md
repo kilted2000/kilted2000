@@ -6,7 +6,7 @@
 
 - 🌱 I am always **thinking about how to use tech to solve real world problems**
 
-- 👨‍💻 Check out more of my projects at [https://richardwhittingtondev.com](https://richardwhittingtondev.com)
+- 👨‍💻 Check out more of my projects at [https://richardwhittingtondev.com](https://richardwhittingtondev.com) or [http://901-technologies.com](http://901-technologies.com)
  
 - 💬 Ask to me **how I could use my coding and design skills to help solve real world problems**
 
