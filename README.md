@@ -41,7 +41,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Typescript-lang?label=Language">
   <img alt="Static Badge" src="https://img.shields.io/badge/Go-lang?label=Language">
   <img alt="Static Badge" src="https://img.shields.io/badge/Gin-lang?label=Framework">
-      <img alt="Static Badge" src="https://img.shields.io/badge/OpenAI-lang?label=API">
+  <img alt="Static Badge" src="https://img.shields.io/badge/OpenAI-lang?label=API">
 </div>
 
 
