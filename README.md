@@ -12,7 +12,7 @@
 
 - 📫 Where you can reach me: **richardlwhittington@gmail.com**
 
-- ⚡ Fun fact **I've been to 4 out of 7 continents! Only Africa, Australia, and Antarctica to go! Antarctica might be a hard, but worth it!**
+- ⚡ Fun fact **I've been to 4 out of the 7 continents! Only Africa, Australia, and Antarctica to go! Antarctica might be a hard, but worth it!**
 
 <h3 align="left">Let's Talk!:</h3>
 <p align="left">
