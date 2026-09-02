@@ -10,7 +10,7 @@
  
 - 💬 Ask to me **how I could be useing my code, AI and design skills to help solve your problems** 
 
-- 📫 Where you can reach me: **richardlwhittington@gmail.com**
+- 📫 Where you can reach me: **richardlwhittington@gmail.com or if you will be at the Commit Your Code Conference 2026, say hello to me!**
 
 - ⚡ Fun fact **I've been to 4 out of the 7 continents! Only Africa, Australia, and Antarctica to go! Antarctica might be a hard, but worth it!**
 
