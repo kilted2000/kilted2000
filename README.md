@@ -1,18 +1,18 @@
 
 ![cover](https://user-images.githubusercontent.com/53500493/230682908-95b8c446-cbd3-4c8a-a591-dba8b1c6d56e.png)
 
-<h1 align="center">Hello 👋, I'm Richard Whittington</h1>
+<h1 align="center">Hello, I'm Richard Whittington</h1>
 <h3 align="center">Your Friendly Neighbourhood Software Developer</h3>
 
-- 🌱 I am always **thinking about how to use tech to connect people together**
+-  I am always **thinking about how to use tech to connect people together**
 
-- 👨‍💻 Check out more of my projects at [https://richardwhittingtondev.com](https://richardwhittingtondev.com) or [http://901-technologies.com](http://901-technologies.com)
+-  Check out more of my projects at [https://richardwhittingtondev.com](https://richardwhittingtondev.com) or [http://901-technologies.com](http://901-technologies.com)
  
-- 💬 Ask to me **how I could be using my code, AI and design skills to help solve your problems** 
+-  Ask to me **how I could be using my code, AI and design skills to help solve your problems** 
 
-- 📫 Where you can reach me: **richardlwhittington@gmail.com**
+-  Where you can reach me: **richardlwhittington@gmail.com**
 
-- ⚡ Fun fact **I've been to 4 out of the 7 continents! Only Africa, Australia, and Antarctica to go!**
+-  Fun fact **I've been to 4 out of the 7 continents! Only Africa, Australia, and Antarctica to go!**
 
 <h3 align="left">Let's Talk!:</h3>
 <p align="left">
