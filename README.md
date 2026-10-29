@@ -20,10 +20,11 @@
 <a href="https://www.linkedin.com/in/richardwhittingtonse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/richardwhittingtonse/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="[![My Skills](https://skillicons.dev/icons?i=git,github,bootstrap,tailwind,docker,css,express,fastapi,figma,go,html,ai,java,spring,js,ts,mongodb,postgres,nextjs,react,nodejs,vscode)](https://skillicons.dev)" />
+    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,tailwind,docker,css,express,fastapi,figma,go,html,ai,java,spring,js,ts,mongodb,postgres,nextjs,react,nodejs,vscode&perline=10" />
   </a>
 </p>
 
