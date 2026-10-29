@@ -27,7 +27,7 @@
 " />
   </a>
 </p>
-<div style="display: inline-block;">
+<!-- <div style="display: inline-block;">
 <img style="margin-left: 5;" alt="Static Badge" src="https://img.shields.io/badge/Javascript-lang?label=Language">
  <img alt="Static Badge" src="https://img.shields.io/badge/Java-lang?label=Language">
  <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-lang?label=Framework">
@@ -48,7 +48,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Go-lang?label=Language">
   <img alt="Static Badge" src="https://img.shields.io/badge/Gin-lang?label=Framework">
   <img alt="Static Badge" src="https://img.shields.io/badge/OpenAI-lang?label=API">
-</div>
+</div> -->
 
 
 
