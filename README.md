@@ -14,8 +14,8 @@
 
 -  Fun fact **I've been to 4 out of the 7 continents! Only Africa, Australia, and Antarctica to go!**
 
-<h3 align="left">Let's Talk!:</h3>
-<p align="left">
+<h3 align="center">Let's Talk!:</h3>
+<p align="center">
 <a href="https://twitter.com/richardwhitdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="richardwhitdev" height="31" width="40" /></a>
 <a href="https://www.linkedin.com/in/richardwhittingtonse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/richardwhittingtonse/" height="30" width="40" /></a>
 </p>
@@ -27,29 +27,6 @@
     <img src="https://skillicons.dev/icons?i=git,github,bootstrap,tailwind,docker,css,express,fastapi,figma,go,html,ai,java,spring,js,ts,mongodb,postgres,nextjs,react,nodejs,vscode&perline=10" />
   </a>
 </p>
-
-<!-- <div style="display: inline-block;">
-<img style="margin-left: 5;" alt="Static Badge" src="https://img.shields.io/badge/Javascript-lang?label=Language">
- <img alt="Static Badge" src="https://img.shields.io/badge/Java-lang?label=Language">
- <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-lang?label=Framework">
- <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-lang?label=Library">
- <img alt="Static Badge" src="https://img.shields.io/badge/CSS-lang?label=Stylesheet">
-<img alt="Static Badge" src="https://img.shields.io/badge/Node.js-lang?label=Framework">
-<img alt="Static Badge" src="https://img.shields.io/badge/Express.js-lang?label=Framework">
-<img alt="Static Badge" src="https://img.shields.io/badge/Git-lang?label=Version%20Control">
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML-lang?label=Markup">
-<img alt="Static Badge" src="https://img.shields.io/badge/MongoDb-lang?label=Database">
-<img alt="Static Badge" src="https://img.shields.io/badge/Postman-lang?label=Platform%20">
-<img alt="Static Badge" src="https://img.shields.io/badge/React.js-lang?label=Library">
-<img alt="Static Badge" src="https://img.shields.io/badge/Next.js-lang?label=Framework">
- <img alt="Static Badge" src="https://img.shields.io/badge/Docker-lang?label=Platform">
- <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind-lang?label=Library">
-  <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-lang?label=Database">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Typescript-lang?label=Language">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Go-lang?label=Language">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Gin-lang?label=Framework">
-  <img alt="Static Badge" src="https://img.shields.io/badge/OpenAI-lang?label=API">
-</div> -->
 
 
 
