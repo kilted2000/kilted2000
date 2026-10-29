@@ -21,6 +21,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,tailwind,docker,css,express,fastapi,figma,go,html,ai,java,spring,js,ts,mongodb,postgres,nextjs,react,nodejs,vscode&perline=10
+" />
+  </a>
+</p>
 <div style="display: inline-block;">
 <img style="margin-left: 5;" alt="Static Badge" src="https://img.shields.io/badge/Javascript-lang?label=Language">
  <img alt="Static Badge" src="https://img.shields.io/badge/Java-lang?label=Language">
