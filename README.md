@@ -10,7 +10,7 @@
  
 -  Ask to me **how I an use code, AI and design skills to help solve your problems** 
 
--  Where you can reach me: **richardlwhittington@gmail.com**
+-  Lets Chat!: **richardlwhittington@gmail.com**
 
 -  Fun fact **So far I've been to 4 out of the 7 continents! Only Africa, Australia, and Antarctica to go!**
 
