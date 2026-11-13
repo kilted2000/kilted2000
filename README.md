@@ -2,7 +2,7 @@
 ![cover](https://user-images.githubusercontent.com/53500493/230682908-95b8c446-cbd3-4c8a-a591-dba8b1c6d56e.png)
 
 <h1 align="center">Hello, I'm Richard Whittington</h1>
-<h3 align="center">Your Friendly Neighbourhood Software Developer</h3>
+<h3 align="center">A Software Developer</h3>
 
 -  I am always **thinking about how to use tech to connect people**
 
