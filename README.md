@@ -8,7 +8,7 @@
 
 -  Check out more of my projects at [https://richardwhittingtondev.com](https://richardwhittingtondev.com) or [http://901-technologies.com](http://901-technologies.com)
  
--  Ask to me **how I an use code, AI and design skills to help solve your problems** 
+-  Ask to me **how I an use code, AI and design skills to help solve problems** 
 
 -  Lets Chat!: **richardlwhittington@gmail.com**
 
