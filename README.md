@@ -1,9 +1,9 @@
 
 ![cover](https://user-images.githubusercontent.com/53500493/230682908-95b8c446-cbd3-4c8a-a591-dba8b1c6d56e.png)
 
-<!-- <h1 align="center">Hi, my name is Richard Whittington</h1>
-<h3 align="center">I'm a Software Developer</h3> -->
-<h1 align="center">const richardWhittington = Software Engineer;</h1>
+<h1 align="center">Hi, my name is Richard Whittington</h1>
+<h3 align="center">I'm a Software Developer</h3> 
+<!-- <h1 align="center">const richardWhittington = Software Engineer;</h1> -->
 
 -  I am always **thinking about how to use tech to connect people**
 
